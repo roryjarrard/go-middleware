@@ -1,4 +1,4 @@
-package trailing_slashes
+package go_middleware
 
 import (
 	"net/http"
